@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Musical Structure App</string>
+    <string name="song_duration_start">0.00</string>
+</resources>
